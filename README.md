@@ -2,7 +2,7 @@
 
 An interactive sales analytics dashboard for coffee shop data, built with multiple machine learning forecasting models. Ruya allows users to explore historical sales trends and predict future demand using ARIMA, LSTM, and Prophet — side by side.
 
-> Samsung Innovation Campus — Capstone Project
+> Samsung Innovation Campus — Capstone Group Project
 > Forked from AbAlowaid/Ruya
 
 ---
