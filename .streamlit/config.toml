@@ -1,0 +1,6 @@
+[theme]
+primaryColor = "#6F4E37"          # Coffee Brown – primary buttons, sliders
+backgroundColor = "#F7EFE5"       # Café Cream background
+secondaryBackgroundColor = "#FFFFFF"  # Pure White for cards/widgets
+textColor = "#3C2F2F"             # Deep Espresso text
+font = "sans serif"
